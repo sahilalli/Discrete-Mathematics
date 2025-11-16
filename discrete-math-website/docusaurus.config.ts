@@ -11,6 +11,8 @@ const config: Config = {
 
   url: "https://discrete-math-website.netlify.app",
   
+  baseUrl:"https://discrete-math-website.netlify.app",
+  
   future: {
     v4: true,
   },
