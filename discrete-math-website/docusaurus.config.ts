@@ -9,6 +9,8 @@ const config: Config = {
   tagline: 'University-level study material',
   favicon: 'img/favicon.ico',
 
+  url: "https://discrete-math-website.netlify.app",
+  
   future: {
     v4: true,
   },
